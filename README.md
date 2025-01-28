@@ -5,7 +5,8 @@
 
 </div>
 
-- Support multi locale creation
+- Support creating / edit new translations
+- Directly plugged to Strapi internationalization
 - No configuration needed
 - Import/export csv feature
 - Seamless UI integration with **Strapi Design System**
