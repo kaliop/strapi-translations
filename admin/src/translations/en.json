@@ -1,0 +1,20 @@
+{
+  "plugin.title": "Welcome to your translation center",
+  "plugin.subtitle": "This plugin allow you to modify basic translations",
+  "plugin.addTranslation": "Add a new translation for all languages",
+  "languagePicker.title": "Pick a language",
+  "action.save": "Save",
+  "action.addTranslation": "Add a new translation",
+  "action.validate": "Validate",
+  "action.modifyKey": "Modify the key",
+  "action.back": "Back",
+  "action.reset": "Reset",
+  "action.copied": "Copied to clipboard",
+  "action.import": "Import",
+  "action.cancel": "Cancel",
+  "addTranslation.verifyKey": "Verify key availability in all locales",
+  "import.cta": "Import from CSV",
+  "import.title": "Import from a CSV content",
+  "import.confirmOverwrite": "This import will overwrite the current translations, do you confirm the overwrite?",
+  "export.action": "Export to CSV"
+}
